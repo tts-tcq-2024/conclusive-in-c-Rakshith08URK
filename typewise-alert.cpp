@@ -65,4 +65,3 @@ void sendToEmail(BreachType breachType) {
         printf("%s", messages[breachType]);
     }
 }
-}
